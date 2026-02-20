@@ -1,4 +1,3 @@
-Programación Computacional IV Lab 1 C1
 Facultad:
 Ciencia y Tecnología.
 
