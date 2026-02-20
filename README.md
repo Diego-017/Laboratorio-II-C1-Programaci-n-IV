@@ -1,2 +1,22 @@
-# Laboratorio-II-C1-Programacion-IV
-Laboratorio II C1 Programación IV
+Programación Computacional IV Lab 1 C1
+Facultad:
+Ciencia y Tecnología.
+
+Carrera:
+Ingeniería en sistemas y redes informáticas.
+
+Materia:
+Programación Computacional IV.
+
+Tema:
+Laboratorio I C1.
+
+Docente:
+William Alexis Montes Girón.
+
+Estudiante:
+Diego Martín López Moreno (SMSS097824).
+
+Fecha:
+6 Febrero 2025.
+
