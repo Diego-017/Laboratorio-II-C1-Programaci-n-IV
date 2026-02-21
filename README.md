@@ -8,7 +8,7 @@ Materia:
 Programación Computacional IV.
 
 Tema:
-Laboratorio I C1.
+Laboratorio II C1.
 
 Docente:
 William Alexis Montes Girón.
